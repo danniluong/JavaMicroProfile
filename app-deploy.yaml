@@ -72,5 +72,3 @@ spec:
   stack: java-microprofile
   version: 1.0.0
 status: {}
-
-docker.io/cloud75/danni-microprofile1:d2f85ea
