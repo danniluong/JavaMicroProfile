@@ -44,7 +44,7 @@ metadata:
     stack.appsody.dev/id: java-microprofile
     stack.appsody.dev/version: 0.2.21
   name: javamicroprofile
-  namespace: danske-bank
+  namespace: Danske-Bank
 spec:
   applicationImage: dev.local/javamicroprofile
   createKnativeService: false
@@ -72,3 +72,5 @@ spec:
   stack: java-microprofile
   version: 1.0.0
 status: {}
+
+docker.io/cloud75/danni-microprofile1:d2f85ea
