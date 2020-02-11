@@ -47,6 +47,7 @@ metadata:
   namespace: danske-bank
 spec:
   applicationImage: dev.local/javamicroprofile
+  replicas: 1
   createKnativeService: false
   expose: true
   livenessProbe:
